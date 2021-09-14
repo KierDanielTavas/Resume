@@ -1,0 +1,71 @@
+header{
+	overflow: hidden;
+}
+
+body{
+	font-family: 'Century Gothic';
+	background-color:#d3d5de;
+}
+
+p, ol, ul {
+	margin-top: 0;
+}
+
+.page-cover-image {
+    display: block;
+    object-fit: cover;
+    width: 100%;
+    height: 30vh;
+}
+
+
+element.style {
+    object-position: center 26.349999999999994%;
+}
+
+.page-header-icon-with-cover {
+    margin-top: -0.72em;
+    margin-left: 0.07em;
+}
+
+.page-header-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    width: 50;
+    height: 20vh;
+
+}
+
+div {
+    display: block;
+}
+
+.icon {
+    display: inline-block;
+    max-width: 1.2em;
+    max-height: 1.2em;
+    text-decoration: none;
+    vertical-align: text-bottom;
+    margin-right: 0.5em;
+}
+
+.page-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 0.75em;
+}
+
+blockquote {
+    font-size: 1.25em;
+    margin: 1em 0;
+    padding-left: 1em;
+    border-left: 3px solid rgb(55, 53, 47);
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+
